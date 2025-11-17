@@ -14,7 +14,7 @@ Go Home Robot! is a game set on an `n × n` grid where the player controls a rob
 1. Clone repository:
 - git clone https://github.com/CameronA001/dataStructuresFinalProject.git/
 
-2. Compile
+2. Compile (From within DSA_FinalProject)
 - javac -d bin src/robotgohome/*.java
 
 3.Run
