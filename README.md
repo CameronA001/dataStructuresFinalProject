@@ -12,13 +12,13 @@ Go Home Robot! is a game set on an `n × n` grid where the player controls a rob
 
 ## How To Run
 1. Clone repository 
-git clone https://github.com/CameronA001/dataStructuresFinalProject.git/
+ git clone https://github.com/CameronA001/dataStructuresFinalProject.git/
 
 2. Compile
-javac -d bin src/robotgohome/*.java?
+ javac -d bin src/robotgohome/*.java?
 
 3.Run
-java -cp bin robotgohome.Driver
+ java -cp bin robotgohome.Driver
 
 
 ## Data Structures Used
